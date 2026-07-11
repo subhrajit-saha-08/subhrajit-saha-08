@@ -1,4 +1,4 @@
-# Hi there, I'm Subhrajit Saha! 👋
+# Subhrajit Saha
 
 I'm a B.Tech Computer Science and Engineering student (CSE '29) and an aspiring software engineer passionate about **learning in public**. I love bridging the gap between foundational logic and real-world applications, building everything from hardware-integrated IoT devices to AI-driven web platforms.
 
