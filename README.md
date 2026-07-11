@@ -51,7 +51,7 @@ I am a 2nd-year B.Tech Computer Science and Engineering student and an aspiring 
 ### 💡 Featured Projects
 
 #### 🛡️ [Lexi-Fair AI](https://github.com/subhrajit-saha-08)
-**"Shift-Left" Contextual Proxy Scanner** built for the PromptWars Hackathon.
+**"Shift-Left" Contextual Proxy Scanner** built for the Google "Build with AI" Hackathon.
 
 - **Live Prototypes:** 🌐 [View Web Portal](https://lexi-fair.web.app/)
 
