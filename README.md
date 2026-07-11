@@ -1,13 +1,27 @@
+<div align="center">
+
 # Subhrajit Saha
 
-I'm a B.Tech Computer Science and Engineering student (CSE '29) and an aspiring software engineer passionate about **learning in public**. I love bridging the gap between foundational logic and real-world applications, building everything from hardware-integrated IoT devices to AI-driven web platforms.
+**Full-Stack Developer | AI Integration Specialist | Devops Enthusiast**
+
+*“Breathing logic into hardware, deploying intelligence to the web.”*
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a 2nd-year B.Tech Computer Science and Engineering student and an aspiring software engineer. I specialize in moving beyond theory to build hands-on projects, from hardware-integrated IoT embedded systems to AI-driven full-stack web platforms. I am passionate about **learning in public** and developing systems that mitigate real-world problems.
+
+- 🎓 **Education:** Pursuing B.Tech in CSE at JIS College of Engineering (1st Sem SGPA: 9.22).
+- 🌱 **Currently Focusing On:** Data Structures & Algorithms, and AI integrations on Softwares.
 
 ---
 
 ### 🚀 What I'm Up To
-- 🎓 **Currently studying:** Data Structures & Algorithms, Object-Oriented Programming.
-- 💻 **Currently working on:** Full-stack web development and AI integrations using the Gemini API.
-- 🏆 **Recent Activity:** Google Cloud Arcade 2026 Participant & Developer at PromptWars Hackathon.
+- 💻 **Currently working on:** Full-stack web development and AI integrations.
+- 🏆 **Recent Activity:** Google Cloud Arcade 2026 Participant & Developer at Google Build with AI Hackathon.
 - 🤝 **Looking to collaborate on:** Open-source projects, hackathons, and hardware (Arduino) integrations.
 - 📫 **How to reach me:** [subhrajitsaha951@gmail.com](mailto:subhrajitsaha951@gmail.com)
 
@@ -38,6 +52,11 @@ I'm a B.Tech Computer Science and Engineering student (CSE '29) and an aspiring 
 
 #### 🛡️ [Lexi-Fair AI](https://github.com/subhrajit-saha-08)
 **"Shift-Left" Contextual Proxy Scanner** built for the PromptWars Hackathon.
+
+- **Live Prototypes:** 🌐 [View Web Portal](https://lexi-fair.web.app/)
+
+> *Note: This is an active beta prototype meant for demonstration and testing purposes.*
+
 - **Tech:** Python, Flask, Vanilla JS, Firebase, Google Gemini Flash API.
 - **What it does:** Uses Zero-Data Auditing to predict intersectional bias and flag hidden demographic proxies in enterprise datasets locally in the browser, eliminating PII data breach liabilities.
 
@@ -54,5 +73,11 @@ I'm a B.Tech Computer Science and Engineering student (CSE '29) and an aspiring 
 
 ---
 
+### 🤝 Connect & Collaborate
+
+Always open to discussing full-stack web development, AI integrations, IoT embedded systems, or the next hackathon build.
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhrajitsaha951@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhrajit-saha08)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919883952320)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/SubhrajitSaha08)
