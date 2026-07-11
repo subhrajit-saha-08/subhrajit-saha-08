@@ -67,12 +67,6 @@ I am a 2nd-year B.Tech Computer Science and Engineering student and an aspiring 
 
 ---
 
-### 📊 GitHub Stats
-
-![Subhrajit's GitHub Streak](https://streak-stats.demolab.com?user=subhrajit-saha-08&theme=transparent&hide_border=true&title_color=000080&text_color=333333)
-
----
-
 ### 🤝 Connect & Collaborate
 
 Always open to discussing full-stack web development, AI integrations, IoT embedded systems, or the next hackathon build.
