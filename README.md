@@ -66,13 +66,13 @@ I am a 2nd-year B.Tech Computer Science and Engineering student and an aspiring 
 - **What it does:** Bridges low-level hardware constraints with high-level actuation commands, utilizing proximity sensors for real-time object detection and automated water dispensing.
 
 ---
-<div align="center">
+<!-- <div align="center">
 
   ### 📊 GitHub Stats
 
-![Subhrajit's GitHub Streak](https://streak-stats.demolab.com?user=subhrajit-saha-08&theme=transparent&hide_border=true&title_color=000080&text_color=333333)
+![Subhrajit's GitHub Streak](https://streak-stats.demolab.com?user=subhrajit-saha-08&theme=transparent&hide_border=true&title_color=000080&text_color=333333) -->
 
----
+
 
 ### 🤝 Connect & Collaborate
 
